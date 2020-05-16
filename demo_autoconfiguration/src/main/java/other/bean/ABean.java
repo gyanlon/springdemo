@@ -1,8 +1,8 @@
 package other.bean;
 
-public class OtherBean {
+public class ABean {
     @Override
     public String toString() {
-        return "Other bean";
+        return "A bean";
     }
 }

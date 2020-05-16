@@ -2,13 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11eb0800-197b-433e-999b-fa45ab4f6310" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/bean/ABean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/bean/ABeanFactroyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/other/bean/ABeanX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_lifecycle/demo_lifecycle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_lifecycle/src/main/java/demo/DemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_lifecycle/src/main/java/demo/DemoBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_lifecycle/src/main/java/demo/TestLifeCycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/demo/DemoAutoconfigurationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/DemoAutoconfigurationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/other/autoconfigure/OtherAutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/other/autoconfigure/OtherAutoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/other/bean/OtherBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/other/bean/OtherBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/other/bean/OtherBeanX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/other/bean/OtherBeanX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/DemoAutoconfigurationApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/demo/DemoAutoconfigurationApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/other/autoconfigure/OtherAutoConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/other/autoconfigure/OtherAutoConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/other/bean/OtherBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/other/bean/OtherBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/other/bean/OtherBeanX.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/other/bean/OtherBeanX.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -22,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="RecentsManager">
@@ -75,29 +98,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1589597290332">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1589597290332" />
     <state x="421" y="60" key="FileChooserDialogImpl" timestamp="1589508610987">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="60" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589508610987" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1589524486618">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1589598098082">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589524486618" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1589524486618">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589598098082" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1589598098082">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589524486618" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1589524486618">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589598098082" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1589598098082">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589524486618" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1589524486618">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589598098082" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1589598098082">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589524486618" />
-    <state x="28" y="45" key="new project wizard" timestamp="1589508668792">
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589598098082" />
+    <state x="28" y="45" key="new project wizard" timestamp="1589526871089">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="28" y="45" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589508668792" />
+    <state x="28" y="45" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589526871089" />
+    <state x="345" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1589596407469">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="345" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1589596407469" />
   </component>
 </project>

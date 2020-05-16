@@ -14,6 +14,7 @@ public class DemoAutoconfigurationApplication {
 
         System.out.println(ctx.getBean(OtherBean.class).toString());
         System.out.println(ctx.getBean(OtherBeanX.class).toString());
+        System.out.println(ctx.getBean("aBeanX").toString());
     }
 
 }
